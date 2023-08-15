@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16511f32.css",
+    "main.js": "/static/js/main.f32bab21.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/carousel5.png": "/static/media/carousel5.11e76773f6efdd077855.png",
+    "static/media/carousel4.png": "/static/media/carousel4.d45df79b8a19643d5109.png",
+    "static/media/carousel3.png": "/static/media/carousel3.8c094ef2ed29748e54e3.png",
+    "static/media/CodecPro-Regular.ttf": "/static/media/CodecPro-Regular.73c4e0f788ac1825caf5.ttf",
+    "static/media/CodecPro-Bold.ttf": "/static/media/CodecPro-Bold.5472d06f267e7c90e698.ttf",
+    "static/media/CodecPro-News.ttf": "/static/media/CodecPro-News.89996a2bdf05b89f81a6.ttf",
+    "static/media/CodecPro-Light.ttf": "/static/media/CodecPro-Light.c0bd9c031dcfcde6a553.ttf",
+    "static/media/carousel1.png": "/static/media/carousel1.309bbe4b0a5174654ded.png",
+    "static/media/Roboto-BlackItalic.ttf": "/static/media/Roboto-BlackItalic.fd62a10743bd89a3d97c.ttf",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Black.ttf": "/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/Plateia.ttf": "/static/media/Plateia.eb86fae3ac053615ae87.ttf",
+    "static/media/carousel2.png": "/static/media/carousel2.604a52628dd5134d2646.png",
+    "static/media/partner2.gif": "/static/media/partner2.47786c9c592e7e8f7058.gif",
+    "static/media/partner4.gif": "/static/media/partner4.c42c8e3eb92c11c339fc.gif",
+    "static/media/partner1.gif": "/static/media/partner1.47885095ce7d9d02ba0c.gif",
+    "static/media/logo.png": "/static/media/logo.33c03b2123d3f7348aaf.png",
+    "static/media/partner3.gif": "/static/media/partner3.6a92120218bd2c41e4f8.gif",
+    "index.html": "/index.html",
+    "main.16511f32.css.map": "/static/css/main.16511f32.css.map",
+    "main.f32bab21.js.map": "/static/js/main.f32bab21.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16511f32.css",
+    "static/js/main.f32bab21.js"
+  ]
+}
