@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.23304f2b.css",
-    "main.js": "/static/js/main.5880575d.js",
+    "main.css": "/static/css/main.13915122.css",
+    "main.js": "/static/js/main.c408ae6d.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/carousel5.png": "/static/media/carousel5.11e76773f6efdd077855.png",
     "static/media/carousel4.png": "/static/media/carousel4.d45df79b8a19643d5109.png",
@@ -23,15 +23,16 @@
     "static/media/partner2.gif": "/static/media/partner2.47786c9c592e7e8f7058.gif",
     "static/media/partner4.gif": "/static/media/partner4.c42c8e3eb92c11c339fc.gif",
     "static/media/partner1.gif": "/static/media/partner1.47885095ce7d9d02ba0c.gif",
-    "static/media/logo.png": "/static/media/logo.33c03b2123d3f7348aaf.png",
+    "static/media/logo-focus.png": "/static/media/logo-focus.9ff71e873550f1e98c13.png",
     "static/media/partner3.gif": "/static/media/partner3.6a92120218bd2c41e4f8.gif",
+    "static/media/logo.png": "/static/media/logo.eb68aaefe60228cdb69c.png",
     "index.html": "/index.html",
-    "main.23304f2b.css.map": "/static/css/main.23304f2b.css.map",
-    "main.5880575d.js.map": "/static/js/main.5880575d.js.map",
+    "main.13915122.css.map": "/static/css/main.13915122.css.map",
+    "main.c408ae6d.js.map": "/static/js/main.c408ae6d.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23304f2b.css",
-    "static/js/main.5880575d.js"
+    "static/css/main.13915122.css",
+    "static/js/main.c408ae6d.js"
   ]
 }
