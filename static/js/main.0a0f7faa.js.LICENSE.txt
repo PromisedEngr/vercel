@@ -10,6 +10,13 @@ object-assign
 @license MIT
 */
 
+/*!
+ * cookie
+ * Copyright(c) 2012-2014 Roman Shtylman
+ * Copyright(c) 2015 Douglas Christopher Wilson
+ * MIT Licensed
+ */
+
 /*! ./Component */
 
 /*! ./Context */
@@ -165,7 +172,7 @@ object-assign
  */
 
 /**
- * @remix-run/router v1.7.2
+ * @remix-run/router v1.8.0
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -176,7 +183,7 @@ object-assign
  */
 
 /**
- * React Router DOM v6.14.2
+ * React Router DOM v6.15.0
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -187,7 +194,7 @@ object-assign
  */
 
 /**
- * React Router v6.14.2
+ * React Router v6.15.0
  *
  * Copyright (c) Remix Software Inc.
  *
